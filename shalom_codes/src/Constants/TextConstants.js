@@ -7,6 +7,6 @@ export const About = "About"
 export const Projects = "Projects"
 
 //about me section
-export const AboutMe = "Who am I?"
+export const AboutMe = "My Information"
 export const Skill = "Skills"
 export const Contact = "Contact me"
