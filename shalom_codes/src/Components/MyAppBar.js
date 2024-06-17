@@ -13,9 +13,6 @@ export default function MyAppBar() {
         {About}
       </Button>
       <Button color="inherit">
-        {Skills}
-      </Button>
-      <Button color="inherit">
         {Projects}
       </Button>
     </Fragment>

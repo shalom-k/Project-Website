@@ -3,6 +3,10 @@ export const ErrorRefresh = "Error encountered please refresh page"
 export const AppName = "Shalom Codes"
 
 //page sections
-export const About = "About me"
-export const Skills = "Skils"
+export const About = "About"
 export const Projects = "Projects"
+
+//about me section
+export const AboutMe = "Who am I?"
+export const Skill = "Skills"
+export const Contact = "Contact me"
